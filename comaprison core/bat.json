@@ -1,0 +1,7 @@
+{
+  "number_of_cycles": 1500,
+  "usage_per_day": 50,
+  "capacity": 100,
+  "purchase_cost": 7500,
+  "charge_time": 2
+}
